@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362070731545",
+    "project_id": "expense-planner-4455c",
+    "storage_bucket": "expense-planner-4455c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362070731545:android:3011e55c5a83db969d7388",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB62B3y4cbx6uyLrK4N_U_RRJJiOMttjs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362070731545:android:9d57de5415c5faeb9d7388",
+        "android_client_info": {
+          "package_name": "com.example.expense_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB62B3y4cbx6uyLrK4N_U_RRJJiOMttjs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
